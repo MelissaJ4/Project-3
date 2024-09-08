@@ -1,4 +1,7 @@
 # Project 3
+
+**Live Demo:** [https://skywatch.reika.io/](https://skywatch.reika.io/)
+
 Group Members:
 
 - Ryan Eikanger
@@ -34,8 +37,7 @@ https://github.com/openskynetwork/opensky-api/archive/refs/heads/master.zip
 
 Then, install the opensky-api module with `pip`.
 ```shell
-cd opensky-api
-pip install -e ./support/opensky-api/python
+pip install -e ./opensky-api/python
 ```
 ### Leaflet Rotated Marker
 Leaflet Rotated Marker is a plugin that enables rotation of marker icons in Leaflet.
